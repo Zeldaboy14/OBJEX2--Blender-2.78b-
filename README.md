@@ -1,5 +1,6 @@
 # OBJEX2 (Blender 2.78b)
-Object EXtended version of the wavefront OBJ format, specifically tailored for binary Z64 Rom Hacking
+Object EXtended version of the wavefront OBJ format, specifically tailored for binary Z64 Rom Hacking.
+
 Export from Blender to .objex, to be used with z64convert to produce binaries for use in Zelda64 modding.
 
 [Objex2 Wiki](https://github.com/CrookedPoe/io_export_objex/wiki)
